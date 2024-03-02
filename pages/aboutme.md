@@ -5,7 +5,7 @@ title: About me
 ---
 <div style="text-align: center;">
 
-><h1>Manikanta Gopi</h1>
+<h1>Manikanta Gopi</h1>
 
 </div>
 
