@@ -1,3 +1,3 @@
 # Manikanta Gopi
 
-[itsgopi.dev](https://itsgopi.dev)
+[manikanta.me](https://manikanta.me)
