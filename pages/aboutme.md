@@ -3,6 +3,7 @@ layout: page
 permalink: "/pages/aboutme"
 title: About me
 ---
+
 <div style="text-align: center;">
 
 <h1>Manikanta Gopi</h1>
@@ -20,10 +21,26 @@ title: About me
 <div style="text-align: left;">
     <h3> 🦾 Skills:</h3>
     <div style="margin-left: 20px">
-        NestJS, Socket.IO, Ruby on Rails, Flutter, MongoDB, MySql, Docker,
-        Redis, Event Driven Systems, Micro services, RESTful APIs, WebSockets, 
-        Git, CI/CD, TDD, BDD, GitHub, GCP, Azure, Dart, JavaScript, TypeScript,
-        Ruby, Python, Node.js, Express.js, Kubernetes, Pub/Sub Systems.
+       <h4> Frameworks:</h4>
+        <div style="margin-left: 30px">
+            NestJS, Socket.IO, Ruby on Rails, Flutter, Terraform
+        </div>
+         <h4> Databases:</h4>
+        <div style="margin-left: 30px">
+            MongoDB, MySql, Redis
+        </div>
+        <h4> System Design Practices and Principles:</h4>
+        <div style="margin-left: 30px">
+            Event Driven Systems, Micro services, RESTful APIs, WebSockets, Pub/Sub Systems
+        </div>
+            <h4> Tools:</h4>
+        <div style="margin-left: 30px">
+            Docker, Kubernetes, Git, CI/CD, TDD, BDD, GitHub, GCP, Azure
+        </div>
+        <h4> Languages:</h4>
+        <div style="margin-left: 30px">
+            Dart, JavaScript, TypeScript, Ruby, Python
+        </div>
     </div>
 </div>
 
@@ -49,6 +66,14 @@ title: About me
   <li>Pre University Course (MPC), RGUKT Nuzvid.</li>
 </ul>
 </div>
+
+<h3 style="text-align: left;">Hobbies:</h3>
+<ul>
+  <li>Drawing and shading</li>
+  <li>Reading Books</li>
+  <li>Writing Blogs</li>
+  <li>Listening to Music</li>
+</ul>
 
 
 
