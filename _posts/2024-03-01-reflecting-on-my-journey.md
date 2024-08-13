@@ -3,7 +3,7 @@ layout: post
 title: "🚀 Reflecting on My Journey: Lessons Learned in Development 🚀"
 show-img: true
 mermaid: true
-thumbnail-img: /assets/img/hello_world.jpeg
+#thumbnail-img: /assets/img/hello_world.jpeg
 ---
 
 As I continue to grow in my development career, I've come to realize that there are certain pitfalls that many of us encounter. It's essential to acknowledge these challenges and learn from them. Here are some valuable lessons I've gathered along the way:
