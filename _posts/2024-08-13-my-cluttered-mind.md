@@ -6,3 +6,5 @@ mermaid: true
 #thumbnail-img: /assets/img/hello_world.jpeg
 tags: [clutter, mind, thoughts]
 ---
+
+# Checking out the website deployment
